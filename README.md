@@ -131,7 +131,7 @@ class ZaidZhonbedkar:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=Zaid-Zhonbedkar&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -141,7 +141,7 @@ class ZaidZhonbedkar:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaid-Zhonbedkar&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -151,7 +151,7 @@ class ZaidZhonbedkar:
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Zaid-Zhonbedkar/Zaid-Zhonbedkar/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -206,15 +206,15 @@ that push beyond conventional applications.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Zaid-Zhonbedkar">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/Zaid Zhonbedkar">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:zaid.zhonbedkarofficial9313@gmail.com">
 <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
