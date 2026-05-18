@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0f0f,100:00f7ff&text=NEXIS&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Developer%20•%20Compiler%20Builder%20•%20Future%20Architect&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0f0f,100:00f7ff&text=Zaid-Zhonbedkar&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Developer%20•%20Compiler%20Builder%20•%20Future%20Architect&descAlignY=60"/>
 
 # ⚡ Zaid Zhonbedkar
 
